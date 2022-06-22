@@ -1,3 +1,5 @@
+[Docker Tutorial For Beginners - How To Containerize Python Applications](www.youtube.com/watch?v=bi0cKgmRuiA&)
+
 prerequisites
 -Visual Studio Code (mac)
 -docker desktop (mac)
