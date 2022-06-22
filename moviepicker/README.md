@@ -2,8 +2,9 @@
 
 prerequisites
 -Visual Studio Code (mac)
--docker desktop (mac)
+-Docker desktop (mac)
 
+Open Docker desktop
 Open Visual Studio Code and connect to github and clone PYTHON-FUN repository locally
 type: cd moviepicker in the terminal to change to the local folder within the local repository "moviepicker"
 type: docker build -t python-imdb .
